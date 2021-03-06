@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T13:35:03.287Z" agent="5.0 (Windows)" etag="SXx35bAkpSicyJatd8hB" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T13:39:41.434Z" agent="5.0 (Windows)" etag="YmwhLtqBmw6Q3mVB0YaG" version="14.4.4" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
     <mxGraphModel dx="862" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K2hIcIQr3NRvpB6Ntuvf-2" value="ระบบจัดการซื้อ ซ่อม จอง สินค้าออนไลน์ JIB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
