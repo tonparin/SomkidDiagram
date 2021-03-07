@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T13:44:51.855Z" agent="5.0 (Windows)" etag="aD0sjs-D2h2bBS5HH9cg" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T14:40:38.971Z" agent="5.0 (Windows)" etag="vZic9MeFdj_Sr3b2q4tD" version="14.4.4" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="1752" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,6 +95,15 @@
             <Array as="points">
               <mxPoint x="440" y="100" />
               <mxPoint x="750" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0unj3pwa1X4SQm6T-zex-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K2hIcIQr3NRvpB6Ntuvf-4" target="K2hIcIQr3NRvpB6Ntuvf-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+              <mxPoint x="-70" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -201,20 +210,23 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-50" y="239" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="350" />
-              <mxPoint x="-50" y="350" />
+              <mxPoint x="380" y="330" />
+              <mxPoint x="-50" y="330" />
             </Array>
             <mxPoint x="380" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sAUdoJAV3pEUHBq7T6fQ-2" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="330" width="130" height="20" as="geometry" />
+          <mxGeometry x="120" y="310" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0unj3pwa1X4SQm6T-zex-2" value="สถานะการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0unj3pwa1X4SQm6T-zex-4" value="รายงานการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0unj3pwa1X4SQm6T-zex-6" value="รายละเอียดการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
