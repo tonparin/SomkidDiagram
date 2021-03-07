@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T14:49:07.427Z" agent="5.0 (Windows)" etag="BknqvjdQ5CSHKruw8bTT" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T14:53:00.285Z" agent="5.0 (Windows)" etag="wJtnC4BB0DDhBlCsSzZv" version="14.4.4" type="github">
   <diagram id="97s5W6zogUnw-100F3bP" name="Page-1">
-    <mxGraphModel dx="1079" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="812" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,6 +377,12 @@
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-41" value="สถานะการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="870" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-42" value="สั่งซื้อสินค้า_บริษัท" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1190" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-43" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1210" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
