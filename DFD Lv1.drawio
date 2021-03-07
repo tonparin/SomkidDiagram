@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T14:16:31.089Z" agent="5.0 (Windows)" etag="HDnagQEiwfX__z76iRMu" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T14:19:59.272Z" agent="5.0 (Windows)" etag="ux5Rnxke1axp7kdjAIhc" version="14.4.4" type="github">
   <diagram id="97s5W6zogUnw-100F3bP" name="Page-1">
-    <mxGraphModel dx="1310" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,11 +12,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlFVlTde8RNro1qCJBSL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlFVlTde8RNro1qCJBSL-4" target="rlFVlTde8RNro1qCJBSL-18">
+        <mxCell id="rlFVlTde8RNro1qCJBSL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.581;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlFVlTde8RNro1qCJBSL-4" target="rlFVlTde8RNro1qCJBSL-18">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="570" y="710" />
-              <mxPoint x="939" y="710" />
+              <mxPoint x="1010" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlFVlTde8RNro1qCJBSL-4" target="rlFVlTde8RNro1qCJBSL-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="775" />
+              <mxPoint x="700" y="775" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -300,13 +309,16 @@
           <mxGeometry x="690" y="1070" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-18" value="แฟ้มซ่อมสินค้า" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="950" y="760" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-20" value="ข้อมูลคำขอซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="690" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-23" value="รายละเอียดการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="1040" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-25" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="757" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
