@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T14:39:31.323Z" agent="5.0 (Windows)" etag="oA50nx0V1UfU1IQMWdUJ" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T14:41:54.226Z" agent="5.0 (Windows)" etag="nPZcgYQ7XMHuBTUfYNcS" version="14.4.4" type="github">
   <diagram id="97s5W6zogUnw-100F3bP" name="Page-1">
-    <mxGraphModel dx="1929" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1614" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,12 +219,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlFVlTde8RNro1qCJBSL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4YyB8-v-8qMEgtiMz1is-39" target="rlFVlTde8RNro1qCJBSL-29">
+        <mxCell id="rlFVlTde8RNro1qCJBSL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4YyB8-v-8qMEgtiMz1is-39" target="rlFVlTde8RNro1qCJBSL-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="400" />
+              <mxPoint x="960" y="330" />
+              <mxPoint x="1290" y="330" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4YyB8-v-8qMEgtiMz1is-39" target="rlFVlTde8RNro1qCJBSL-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4YyB8-v-8qMEgtiMz1is-39" value="พนักงาน" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="370" width="120" height="60" as="geometry" />
@@ -343,12 +347,15 @@
           <mxGeometry x="650" y="1010" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-29" value="&lt;div&gt;แฟ้มจัดส่ง&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="385" width="120" height="30" as="geometry" />
+          <mxGeometry x="1230" y="385" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-30" value="แฟ้มสั่งซื้อ_บริษัท" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-190" y="685" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-32" value="ข้อมูลจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-35" value="สถานะการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="380" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
