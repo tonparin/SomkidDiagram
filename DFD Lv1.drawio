@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T14:13:19.080Z" agent="5.0 (Windows)" etag="jce0Ecui2IR48Gzr7oO7" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T14:16:31.089Z" agent="5.0 (Windows)" etag="HDnagQEiwfX__z76iRMu" version="14.4.4" type="github">
   <diagram id="97s5W6zogUnw-100F3bP" name="Page-1">
     <mxGraphModel dx="1310" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
           <mxGeometry x="525" y="590" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-6" value="คำขอซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="785" width="90" height="20" as="geometry" />
+          <mxGeometry x="270" y="785" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlFVlTde8RNro1qCJBSL-7" target="rlFVlTde8RNro1qCJBSL-4">
           <mxGeometry relative="1" as="geometry" />
