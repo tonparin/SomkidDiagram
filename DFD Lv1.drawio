@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T15:19:54.783Z" agent="5.0 (Windows)" etag="dBWTyTFUl55oRzDCTeS9" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T15:20:09.714Z" agent="5.0 (Windows)" etag="69J0waTZf9oiFctbsOM4" version="14.4.4" type="github">
   <diagram id="97s5W6zogUnw-100F3bP" name="Page-1">
     <mxGraphModel dx="986" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -490,6 +490,9 @@
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-69" value="ข้อมูลสั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="1600" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.676;entryY=1.252;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlFVlTde8RNro1qCJBSL-30" target="rlFVlTde8RNro1qCJBSL-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
