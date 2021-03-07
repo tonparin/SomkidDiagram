@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T13:30:38.420Z" agent="5.0 (Windows)" etag="mEizWxYggEzOUO53BVk_" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T13:34:43.135Z" agent="5.0 (Windows)" etag="-pRdQfbFb1WDWxKI5k55" version="14.4.4" type="github">
   <diagram id="97s5W6zogUnw-100F3bP" name="Page-1">
-    <mxGraphModel dx="1039" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="736" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,13 +28,15 @@
         <mxCell id="4YyB8-v-8qMEgtiMz1is-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.008;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4YyB8-v-8qMEgtiMz1is-4" target="4YyB8-v-8qMEgtiMz1is-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YyB8-v-8qMEgtiMz1is-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.273;exitY=0.073;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4YyB8-v-8qMEgtiMz1is-28" target="4YyB8-v-8qMEgtiMz1is-1" edge="1">
+        <mxCell id="4YyB8-v-8qMEgtiMz1is-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.273;exitY=0.073;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4YyB8-v-8qMEgtiMz1is-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="520" y="270" />
-              <mxPoint x="126" y="270" />
+              <mxPoint x="530" y="348" />
+              <mxPoint x="530" y="250" />
+              <mxPoint x="160" y="250" />
             </Array>
+            <mxPoint x="160" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YyB8-v-8qMEgtiMz1is-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.552;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4YyB8-v-8qMEgtiMz1is-4" target="4YyB8-v-8qMEgtiMz1is-18" edge="1">
@@ -82,7 +84,7 @@
           <mxGeometry x="180" y="-10" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4YyB8-v-8qMEgtiMz1is-16" value="รายละเอียดการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="250" width="110" height="20" as="geometry" />
+          <mxGeometry x="270" y="230" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4YyB8-v-8qMEgtiMz1is-18" value="แฟ้มลูกค้า" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="-130" width="120" height="30" as="geometry" />
@@ -119,6 +121,14 @@
             <Array as="points">
               <mxPoint x="581" y="340" />
               <mxPoint x="950" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.658;entryY=1.081;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4YyB8-v-8qMEgtiMz1is-28" target="4YyB8-v-8qMEgtiMz1is-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="300" />
+              <mxPoint x="129" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,6 +227,9 @@
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-1" value="DataFlow Diagram Level 1 ระบบจัดการซื้อ ซ่อม จอง สินค้าออนไลน์ ร้าน JIB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="730" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rlFVlTde8RNro1qCJBSL-3" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
