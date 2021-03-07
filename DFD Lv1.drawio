@@ -1,15 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T14:09:39.134Z" agent="5.0 (Windows)" etag="LzZzEqBgl3K5lTZlQEBc" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T14:10:59.387Z" agent="5.0 (Windows)" etag="ODfNbfgZeuDZP1fQOHGF" version="14.4.4" type="github">
   <diagram id="97s5W6zogUnw-100F3bP" name="Page-1">
-    <mxGraphModel dx="1079" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rlFVlTde8RNro1qCJBSL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rlFVlTde8RNro1qCJBSL-9" target="rlFVlTde8RNro1qCJBSL-11">
+        <mxCell id="rlFVlTde8RNro1qCJBSL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.984;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rlFVlTde8RNro1qCJBSL-9" target="rlFVlTde8RNro1qCJBSL-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="1002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="584" y="1040" />
-              <mxPoint x="870" y="1040" />
+              <mxPoint x="870" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -289,7 +288,7 @@
           <mxGeometry x="810" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-13" value="ข้อมูลคำขอซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1018" width="110" height="20" as="geometry" />
+          <mxGeometry x="670" y="1030" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rlFVlTde8RNro1qCJBSL-15" value="ข้อมูลการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="1050" width="110" height="20" as="geometry" />
