@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T15:32:35.941Z" agent="5.0 (Windows)" etag="O9scPPIo_L5EVy1yN3YN" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T15:33:16.131Z" agent="5.0 (Windows)" etag="jwe6mgvqR-4S9naqQjKR" version="14.4.8" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="2343" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,6 +603,9 @@
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-181" value="รับสินค้าเข้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-180">
           <mxGeometry y="29" width="105" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-183" value="พนักงาน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
