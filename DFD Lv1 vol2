@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T15:44:38.299Z" agent="5.0 (Windows)" etag="oDN7GSlfLjXqka8KJ0T8" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T16:05:22.126Z" agent="5.0 (Windows)" etag="Fw8KGKt_SsayqDlN2eac" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="1129" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -604,11 +604,44 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-181" value="รับสินค้าเข้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="meepOP1iejbdZ-AN5ANC-180" vertex="1">
           <mxGeometry y="29" width="105" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-183" target="meepOP1iejbdZ-AN5ANC-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-183" target="meepOP1iejbdZ-AN5ANC-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="3620" />
+              <mxPoint x="565" y="3620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-183">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="3640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="186" y="3559" />
+              <mxPoint x="580" y="3559" />
+              <mxPoint x="580" y="3640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-183" value="พนักงาน" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="3670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-184" value="บริษัท" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="3665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-1" value="D3 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสินค้า" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="150" y="3870" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-3" value="ข้อมูลการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="3674" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-5" value="ข้อมูลพนักงาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3595" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-6" value="ข้อมูลสั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="3533" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
