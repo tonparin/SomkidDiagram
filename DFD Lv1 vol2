@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T15:21:19.867Z" agent="5.0 (Windows)" etag="kSkg2E01W2iWkeKwe_nd" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T15:23:47.643Z" agent="5.0 (Windows)" etag="nI0B462Evl09GD42O6zV" version="14.4.8" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="937" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,7 +454,7 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-146" value="ส่งคำขอซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-145">
           <mxGeometry y="29" width="140" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-148" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-148" value="5" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1920" width="135" height="110" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-149" value="&lt;div&gt;ตรวจสอบ&lt;/div&gt;&lt;div&gt;การรับประกันสินค้า&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-148">
