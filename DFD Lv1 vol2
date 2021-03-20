@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T16:17:13.194Z" agent="5.0 (Windows)" etag="Q-09krxvQ8JZD_AVNMOr" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T16:18:28.969Z" agent="5.0 (Windows)" etag="p5MIuFUSPGVb729o_4at" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="992" dy="1481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="1644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -643,7 +643,7 @@
           <mxGeometry x="1000" y="3665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-1" value="D3 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสินค้า" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="150" y="3870" width="100" height="30" as="geometry" />
+          <mxGeometry x="867" y="3899" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-3" value="ข้อมูลการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="288" y="3674" width="140" height="20" as="geometry" />
@@ -659,6 +659,9 @@
         </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-13" value="สินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="3674" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-15" value="&lt;div&gt;D8 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มรับสินค้า&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="260" y="3906" width="107" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
