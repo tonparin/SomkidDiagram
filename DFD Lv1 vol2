@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T14:01:50.423Z" agent="5.0 (Windows)" etag="p5d_rBwNqiKu5qyddbhM" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T14:25:22.222Z" agent="5.0 (Windows)" etag="Khm1Sd-gyATgNEz9IrNM" version="14.4.8" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="1058" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,12 +22,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-3" value="ลูกค้า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-3" value="สมาชิก" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.001;exitY=0.245;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-28" target="meepOP1iejbdZ-AN5ANC-3">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.001;exitY=0.245;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490.8800000000001" y="128.28999999999974" as="sourcePoint" />
+            <mxPoint x="170" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.426;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-27">
@@ -89,17 +90,226 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-21" value="D3 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสินค้า" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="880" y="-63" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-24" value="D2&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มลูกค้า" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-24" value="&lt;div&gt;D2&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสมาชิก&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="880" y="-140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-25" value="D4 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสั่งซื้อ" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="880" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-27" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-27" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="80" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-28" value="สมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-27">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-28" value="สั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-27">
           <mxGeometry y="29" width="140" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-53" value="ลูกค้า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.027;exitY=0.777;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="meepOP1iejbdZ-AN5ANC-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492.97" y="844.4699999999998" as="sourcePoint" />
+            <mxPoint x="130" y="844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-55" value="รายละเอียดการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="720" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-59" target="meepOP1iejbdZ-AN5ANC-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.827;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-59" target="meepOP1iejbdZ-AN5ANC-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="581" y="780" />
+              <mxPoint x="950" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.906;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-59" target="meepOP1iejbdZ-AN5ANC-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="740" />
+              <mxPoint x="119" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-59" value="ตรวจสอบการสั่งซื้อ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="780" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.352;entryY=0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-63" target="meepOP1iejbdZ-AN5ANC-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="529" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-63" value="แฟ้มสินค้า" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-64" value="ข้อมูลสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="570" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.618;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-66" target="meepOP1iejbdZ-AN5ANC-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="730" />
+              <mxPoint x="558" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-66" value="แฟ้มสั่งซื้อ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="673" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-67" value="ข้อมูลการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="670" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-68" value="รายละเอียดการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="703" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="meepOP1iejbdZ-AN5ANC-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="823" as="sourcePoint" />
+            <mxPoint x="600" y="823" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="823" />
+              <mxPoint x="670" y="823" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-73" target="meepOP1iejbdZ-AN5ANC-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="770" />
+              <mxPoint x="1290" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-73" target="meepOP1iejbdZ-AN5ANC-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-73" value="พนักงาน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-74" value="ข้อมูลการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="760" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-75" value="ข้อมูลจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="800" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-76" value="สถานะการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="829" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="meepOP1iejbdZ-AN5ANC-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="850" as="sourcePoint" />
+            <mxPoint x="630" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="848" />
+              <mxPoint x="610" y="848" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-81" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="820" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-83" value="&lt;div&gt;แฟ้มจัดส่ง&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="825" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-84" value="ข้อมูลจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="750" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-85" value="สถานะการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="820" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-89" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="920" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-90" value="สมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-89">
+          <mxGeometry y="29" width="140" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-91" target="meepOP1iejbdZ-AN5ANC-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="-910" />
+              <mxPoint x="900" y="-910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.353;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-91" target="meepOP1iejbdZ-AN5ANC-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="-870" />
+              <mxPoint x="885" y="-870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-91" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-840" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-92" value="สมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-91">
+          <mxGeometry y="29" width="140" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-93" target="meepOP1iejbdZ-AN5ANC-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="-920" />
+              <mxPoint x="460" y="-920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-93" value="ลูกค้า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-94" value="&lt;div&gt;D2&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสมาชิก&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="850" y="-820" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-96" value="ข้อมูลสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-940" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-92" target="meepOP1iejbdZ-AN5ANC-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="121" y="-780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-92" target="meepOP1iejbdZ-AN5ANC-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="-750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-99" value="รายละเอียดการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-800" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-100" value="Username/Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-770" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-92" target="meepOP1iejbdZ-AN5ANC-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-805" />
+              <mxPoint x="600" y="-805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-104" value="รหัสสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-890" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-105" value="รายละเอียดการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-930" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-106" value="ข้อมูลสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-830" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
