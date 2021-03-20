@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T16:05:41.525Z" agent="5.0 (Windows)" etag="o7dlEEk7ofOxYUTX0GBY" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T16:05:49.380Z" agent="5.0 (Windows)" etag="vk2_-IZnZWx4PpJ-CO_N" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="1156" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -637,7 +637,7 @@
           <mxGeometry x="288" y="3674" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-5" value="ข้อมูลพนักงาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="3595" width="140" height="20" as="geometry" />
+          <mxGeometry x="290" y="3600" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-6" value="ข้อมูลสั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="3568" width="140" height="20" as="geometry" />
