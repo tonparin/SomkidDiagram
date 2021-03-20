@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T16:25:14.339Z" agent="5.0 (Windows)" etag="q3xTWc5KZ2ZEvB9JxRy0" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T16:37:26.597Z" agent="5.0 (Windows)" etag="F8-BlQHxPKW87k2G-Q4E" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="992" dy="1481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2834" dy="2189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,6 +682,12 @@
         </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-20" value="ข้อมูลสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="3714" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-21" value="8" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="4465" width="105" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-22" value="พิมพ์รายงาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1syvJOiWCwgqeGG4t6_C-21">
+          <mxGeometry y="29" width="105" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
