@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T15:23:47.643Z" agent="5.0 (Windows)" etag="nI0B462Evl09GD42O6zV" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T15:29:16.531Z" agent="5.0 (Windows)" etag="uSgOTFVP9HACBDGXLRQI" version="14.4.8" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="1562" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,6 +459,144 @@
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-149" value="&lt;div&gt;ตรวจสอบ&lt;/div&gt;&lt;div&gt;การรับประกันสินค้า&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-148">
           <mxGeometry y="29" width="135" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-179" target="meepOP1iejbdZ-AN5ANC-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="626.9200000000001" y="2753.79" as="targetPoint" />
+            <mxPoint x="452.5" y="3045" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-177" target="meepOP1iejbdZ-AN5ANC-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547.5" y="2700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="2700" />
+              <mxPoint x="510" y="2700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.596;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-176" target="meepOP1iejbdZ-AN5ANC-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1002.5" y="2580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="613" y="2580" />
+              <mxPoint x="992" y="2580" />
+            </Array>
+            <mxPoint x="612.5714285714287" y="2645.9299868084845" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-177" target="meepOP1iejbdZ-AN5ANC-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222.5" y="2780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="582" y="2790" />
+              <mxPoint x="222" y="2790" />
+            </Array>
+            <mxPoint x="582.5714285714287" y="2751.2625793422094" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-177" target="meepOP1iejbdZ-AN5ANC-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385.18000000000006" y="3029.6099999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="603" y="3003" />
+              <mxPoint x="385" y="3003" />
+            </Array>
+            <mxPoint x="602.5" y="2755" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-160" target="meepOP1iejbdZ-AN5ANC-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.5" y="2645" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="222" y="2570" />
+              <mxPoint x="602" y="2570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-160" target="meepOP1iejbdZ-AN5ANC-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="589.3" y="2649.0699999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="252" y="2610" />
+              <mxPoint x="590" y="2610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-160" value="ผู้จัดการ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="2670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.406;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-178" target="meepOP1iejbdZ-AN5ANC-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="592.5" y="2755" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="593" y="2845" />
+            </Array>
+            <mxPoint x="250" y="2845" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-163" value="ตรวจสอบรายการสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="2550" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-164" value="รายการสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="2680" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-165" value="ข้อมูลสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="2820" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-168" target="meepOP1iejbdZ-AN5ANC-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="2693" />
+              <mxPoint x="700" y="2693" />
+            </Array>
+            <mxPoint x="657.6100000000001" y="2692.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.866;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meepOP1iejbdZ-AN5ANC-168" target="meepOP1iejbdZ-AN5ANC-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="641.3908729652603" y="2738.8908729652603" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="992" y="2790" />
+              <mxPoint x="641" y="2790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-168" value="บริษัท" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="932.5" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-169" value="สั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="2590" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-170" value="ข้อมูลสั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="2550" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-171" value="รายละเอียดการสั่งซื้อ_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="3020" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-172" value="ข้อมูลจัดส่ง_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="2670" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-173" value="สถานะการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="762.5" y="2770" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-174" value="ข้อมูลสั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="2980" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-175" value="รายละเอียดการสั่งซื้อ_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="2770" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-176" value="6" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2650" width="105" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-177" value="สั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="meepOP1iejbdZ-AN5ANC-176">
+          <mxGeometry y="29" width="105" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-178" value="D3 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสินค้า" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="150" y="2830" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meepOP1iejbdZ-AN5ANC-179" value="D7 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสั่งซื้อ_บริษัท" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="3030" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
