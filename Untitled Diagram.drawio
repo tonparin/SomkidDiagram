@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:55:31.865Z" agent="5.0 (Windows)" etag="3FQQyE4H6unVtLNgxSCD" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T15:03:00.976Z" agent="5.0 (Windows)" etag="tICaq4fUpAZKZ_7dYbIa" version="14.4.9" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="4138" dy="2053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4950" dy="2370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-87" y="1307" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-1" value="0" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-54" y="10" width="294" height="290" as="geometry" />
+          <mxGeometry x="-127" y="-40" width="294" height="290" as="geometry" />
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-2" value="&lt;div&gt;ระบบจัดการซื้อ ซ่อม จอง &lt;br&gt;&lt;/div&gt;&lt;div&gt;สินค้าออนไลน์ ร้าน JIB&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WleY1IvYI3spGeeIoT7s-1">
           <mxGeometry y="29" width="294" height="261" as="geometry" />
