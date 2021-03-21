@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T15:42:10.686Z" agent="5.0 (Windows)" etag="6l90WnI7EgMmRVAFBMED" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T15:42:48.669Z" agent="5.0 (Windows)" etag="EhdrdjrdJkwjkhPHkWy6" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="2002" dy="1908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-93" value="สมาชิก" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-93" value="ลูกค้า" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="-862" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-94" value="&lt;div&gt;D1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสมาชิก&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
