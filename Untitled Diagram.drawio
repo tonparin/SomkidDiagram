@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T15:43:12.456Z" agent="5.0 (Windows)" etag="hF7HprMw5IG9v8oLBeZ6" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T15:48:05.051Z" agent="5.0 (Windows)" etag="nTmvhuSS4O8FBz6hnrP6" version="14.4.9" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="2662" dy="1585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2502" dy="1504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,20 +59,23 @@
         <mxCell id="WleY1IvYI3spGeeIoT7s-7" value="ข้อมูลสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-767" y="-866" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WleY1IvYI3spGeeIoT7s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.901;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2" target="K2hIcIQr3NRvpB6Ntuvf-3">
+        <mxCell id="WleY1IvYI3spGeeIoT7s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.906;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2" target="K2hIcIQr3NRvpB6Ntuvf-3">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="-810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-971" y="30" />
+              <mxPoint x="-970" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-10" value="รายละเอียดการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-656" y="6" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WleY1IvYI3spGeeIoT7s-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2" target="K2hIcIQr3NRvpB6Ntuvf-3">
+        <mxCell id="WleY1IvYI3spGeeIoT7s-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-982" y="-813" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1000" y="57" />
+              <mxPoint x="-982" y="57" />
+              <mxPoint x="-982" y="-813" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,15 +88,37 @@
         <mxCell id="WleY1IvYI3spGeeIoT7s-21" value="ข้อมูลการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-771" y="-903" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WleY1IvYI3spGeeIoT7s-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.651;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2" target="K2hIcIQr3NRvpB6Ntuvf-3">
+        <mxCell id="WleY1IvYI3spGeeIoT7s-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1001" y="-813" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1020" y="77" />
+              <mxPoint x="-1001" y="77" />
+              <mxPoint x="-1001" y="-813" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-24" value="ข้อมูลสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-645" y="59" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.664;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2" target="K2hIcIQr3NRvpB6Ntuvf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1017" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-26" value="รายละเอียดการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-636" y="75" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-27" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-642" y="94" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-2" target="K2hIcIQr3NRvpB6Ntuvf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1035" y="114" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
