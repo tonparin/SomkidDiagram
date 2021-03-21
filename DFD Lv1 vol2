@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:27:16.811Z" agent="5.0 (Windows)" etag="ihZA-Hs5CFZYKL-5Yr_V" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T14:30:18.811Z" agent="5.0 (Windows)" etag="JQlPBmtTaVIpck3WqKF3" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="1391" dy="1644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -965,8 +965,29 @@
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-80" value="รายงานการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="363" y="4889" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-81" value="Data Flow Diagram Level 1: Process 1 สมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="314" y="-661" width="366" height="20" as="geometry" />
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-81" value="Data Flow Diagram Level 1: Process 2 สั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="406.5" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-82" value="Data Flow Diagram Level 1: Process 1 สมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="-651" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-83" value="Data Flow Diagram Level 1: Process 3 ตรวจสอบการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="694" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-84" value="Data Flow Diagram Level 1: Process 4 ส่งคำขอซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1291" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-85" value="Data Flow Diagram Level 1: Process 5 ตรวจสอบการรับประกันสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="2067" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-86" value="Data Flow Diagram Level 1: Process 6 สั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="2897" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-87" value="&lt;div&gt;Data Flow Diagram Level 1: Process 7 รับสินค้าเข้า&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="3982" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-88" value="&lt;div&gt;Data Flow Diagram Level 1: Process 8 พิมพ์รายงาน&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="5125" width="366" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
