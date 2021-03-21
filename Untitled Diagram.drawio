@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T16:54:10.175Z" agent="5.0 (Windows)" etag="J13DdLhPGhSO70rRMUJQ" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T16:55:13.952Z" agent="5.0 (Windows)" etag="c-HmELO-ZeLvSvLTeGSP" version="14.4.9" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
     <mxGraphModel dx="2832" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -467,6 +467,21 @@
               <mxPoint x="1370" y="-876" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-103" value="รายงานยอดขายสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="811" y="-1004" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-104" value="รายงานการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="811" y="-978" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-105" value="รายงานการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="818" y="-947" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-106" value="รายงานการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="798.5" y="-923" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-107" value="รายงานการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="796.75" y="-896" width="125" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
