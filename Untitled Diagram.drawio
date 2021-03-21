@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:26:13.953Z" agent="5.0 (Windows)" etag="D7eTruxATa0U7Fek00F2" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T14:34:11.798Z" agent="5.0 (Windows)" etag="f4TYxnIymu3H27n_HbVa" version="14.4.9" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
     <mxGraphModel dx="2100" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K2hIcIQr3NRvpB6Ntuvf-3" value="ลูกค้า" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K2hIcIQr3NRvpB6Ntuvf-3" value="สมาชิก" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K2hIcIQr3NRvpB6Ntuvf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K2hIcIQr3NRvpB6Ntuvf-4" target="K2hIcIQr3NRvpB6Ntuvf-3" edge="1">
