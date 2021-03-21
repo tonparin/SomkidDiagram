@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T15:06:44.677Z" agent="5.0 (Windows)" etag="REOyctDoy-d4ocW4c9s9" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T15:07:03.742Z" agent="5.0 (Windows)" etag="VYqBjAKSpWIEees0EL6j" version="14.4.9" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="4640" dy="2624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5375" dy="3005" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-2" value="&lt;div&gt;ระบบจัดการซื้อ ซ่อม จอง &lt;br&gt;&lt;/div&gt;&lt;div&gt;สินค้าออนไลน์ ร้าน JIB&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WleY1IvYI3spGeeIoT7s-1">
           <mxGeometry y="29" width="294" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="WleY1IvYI3spGeeIoT7s-7" value="ข้อมูลสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-767" y="-870" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
