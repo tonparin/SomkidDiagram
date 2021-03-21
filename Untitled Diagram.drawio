@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:34:11.798Z" agent="5.0 (Windows)" etag="f4TYxnIymu3H27n_HbVa" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T14:34:53.542Z" agent="5.0 (Windows)" etag="85RgxTs5YnENvjVNewHr" version="14.4.9" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="2100" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
         <mxCell id="K2hIcIQr3NRvpB6Ntuvf-15" value="Context Diagram&amp;nbsp; ระบบจัดการซื้อ ซ่อม จอง สินค้าออนไลน์ ร้าน JIB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="470" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K2hIcIQr3NRvpB6Ntuvf-20" value="ข้อมูลลูกค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="K2hIcIQr3NRvpB6Ntuvf-20" value="ข้อมูลสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="70" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K2hIcIQr3NRvpB6Ntuvf-21" value="ข้อมูลสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
