@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:09:16.508Z" agent="5.0 (Windows)" etag="ui-C_TQ-5JtPVLRFXTfa" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T14:09:47.975Z" agent="5.0 (Windows)" etag="i3yVaGFkXch5ROoplVYd" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="635" dy="1599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -842,6 +842,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdF1uOxNHR_QqqjdQ8yZ-8" target="1syvJOiWCwgqeGG4t6_C-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="923" y="4958" />
+              <mxPoint x="720" y="4958" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-8" value="D6 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสั่งซื้อ_บริษัท" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="873.75" y="5027" width="132.5" height="30" as="geometry" />
         </mxCell>
@@ -917,6 +925,9 @@
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-67" value="รายละเอียดการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="777.5" y="4914" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-70" value="สถานะการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="4938" width="112.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
