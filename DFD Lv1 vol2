@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T16:07:27.362Z" agent="5.0 (Windows)" etag="KyYp0H-7y5-GozPcDYFU" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T16:07:52.404Z" agent="5.0 (Windows)" etag="mXleJThuyO_fhLdrQ4gi" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="1201" dy="1585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -592,7 +592,7 @@
           <mxGeometry x="417.5" y="2980" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-175" value="รายละเอียดการสั่งซื้อ_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="2770" width="140" height="20" as="geometry" />
+          <mxGeometry x="347.5" y="2770" width="164.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-176" value="6" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="2650" width="105" height="110" as="geometry" />
