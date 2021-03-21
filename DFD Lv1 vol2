@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T16:39:37.584Z" agent="5.0 (Windows)" etag="Cuz-FOF-GOAA4lO1WX9L" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T16:42:37.086Z" agent="5.0 (Windows)" etag="Iu2RBjm3OYhiScfxa_i7" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="1413" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="1434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,16 +758,24 @@
             <mxPoint x="232" y="4796" as="targetPoint" />
             <mxPoint x="706" y="4844" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="685" y="4908" />
-              <mxPoint x="253" y="4908" />
+              <mxPoint x="685" y="4900" />
+              <mxPoint x="253" y="4900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.636;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1syvJOiWCwgqeGG4t6_C-21" target="LdF1uOxNHR_QqqjdQ8yZ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="691" y="4945" />
+              <mxPoint x="697" y="4945" />
               <mxPoint x="429" y="4945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1syvJOiWCwgqeGG4t6_C-21" target="LdF1uOxNHR_QqqjdQ8yZ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="692" y="4918" />
+              <mxPoint x="230" y="4918" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -945,7 +953,7 @@
           <mxGeometry x="390" y="4772" width="112.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-65" value="ข้อมูลการสั่งซื้อ_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="775" y="4889" width="112.5" height="20" as="geometry" />
+          <mxGeometry x="775" y="4889" width="133" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-67" value="รายละเอียดการสั่งซื้อ_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="777.5" y="4914" width="146.5" height="20" as="geometry" />
@@ -963,7 +971,7 @@
           <mxGeometry x="504" y="5031" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-80" value="รายงานการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="363" y="4889" width="125" height="20" as="geometry" />
+          <mxGeometry x="363" y="4879" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-81" value="Data Flow Diagram Level 1: Process 2 สั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="406.5" width="366" height="20" as="geometry" />
@@ -988,6 +996,9 @@
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-88" value="&lt;div&gt;Data Flow Diagram Level 1: Process 8 พิมพ์รายงาน&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="5125" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-91" value="รายงานการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="4899" width="125" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
