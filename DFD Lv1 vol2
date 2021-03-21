@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:17:15.088Z" agent="5.0 (Windows)" etag="U8SQvNcmxcAVhOFmqMzL" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T14:23:52.014Z" agent="5.0 (Windows)" etag="SjBiAVPf02KB5TK9DVvo" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="747" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="529" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdF1uOxNHR_QqqjdQ8yZ-8" target="1syvJOiWCwgqeGG4t6_C-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="923" y="4958" />
+              <mxPoint x="720" y="4958" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.283;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="meepOP1iejbdZ-AN5ANC-3" target="meepOP1iejbdZ-AN5ANC-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="-167.91502622129178" as="targetPoint" />
@@ -755,6 +763,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.636;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1syvJOiWCwgqeGG4t6_C-21" target="LdF1uOxNHR_QqqjdQ8yZ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="691" y="4945" />
+              <mxPoint x="429" y="4945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-21" value="8" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="667.5" y="4702" width="105" height="110" as="geometry" />
         </mxCell>
@@ -857,16 +873,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdF1uOxNHR_QqqjdQ8yZ-8" target="1syvJOiWCwgqeGG4t6_C-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="923" y="4958" />
-              <mxPoint x="720" y="4958" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-8" value="D6 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสั่งซื้อ_บริษัท" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="873.75" y="5027" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.319;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LdF1uOxNHR_QqqjdQ8yZ-9" target="1syvJOiWCwgqeGG4t6_C-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="5049" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-9" value="&lt;div&gt;D7 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มรับสินค้า&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="360.5" y="5027" width="107" height="30" as="geometry" />
@@ -940,6 +955,18 @@
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-70" value="สถานะการจัดส่ง" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="767.5" y="4938" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-74" value="ข้อมูลการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="4787" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-76" value="ข้อมูลการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="456.25" y="4928" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-78" value="รายละเอียดการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="504" y="5031" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-80" value="รายงานการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="4889" width="125" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
