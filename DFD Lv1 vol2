@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T13:52:10.880Z" agent="5.0 (Windows)" etag="KI1K8uP77O57AT_ivqsO" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T13:53:47.747Z" agent="5.0 (Windows)" etag="Egq7s7ih3jeWnzX8xKrE" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="438" dy="1444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -724,6 +724,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1syvJOiWCwgqeGG4t6_C-21" target="LdF1uOxNHR_QqqjdQ8yZ-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="4928" />
+              <mxPoint x="485" y="4928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-21" value="8" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="667.5" y="4702" width="105" height="110" as="geometry" />
         </mxCell>
@@ -863,6 +871,12 @@
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-49" value="รายละเอียดการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="814" y="4842" width="133" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-54" value="สถานะการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="817" y="4862" width="133" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-56" value="รายงานการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506" y="4909" width="112.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
