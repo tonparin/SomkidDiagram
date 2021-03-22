@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T15:39:24.637Z" agent="5.0 (Windows)" etag="apFRCqRzCj0xVwnSvR_Y" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T15:57:45.822Z" agent="5.0 (Windows)" etag="bS1J8xNPHGBaNa_PuK5N" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="1296" dy="1631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1001,7 +1001,7 @@
           <mxGeometry x="944" y="2949" width="366" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-87" value="&lt;div&gt;Data Flow Diagram Level 1: Process 7 รับสินค้าเข้า&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="456" y="4050" width="366" height="20" as="geometry" />
+          <mxGeometry x="467.5" y="4169" width="366" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-88" value="&lt;div&gt;Data Flow Diagram Level 1: Process 8 พิมพ์รายงาน&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="5125" width="366" height="20" as="geometry" />
@@ -1079,6 +1079,12 @@
         </mxCell>
         <mxCell id="1-YWINKqsPptyRSu3eB5-14" value="รายละเอียดการสั่งซื้อ_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="3105" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1-YWINKqsPptyRSu3eB5-16" value="D7 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_Comp" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="425" y="3937" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-YWINKqsPptyRSu3eB5-17" value="D8 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_CompDetail" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="603" y="3937" width="147" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
