@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T15:00:05.199Z" agent="5.0 (Windows)" etag="Z0Q6I_IIGmz5fAnMiNeN" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T15:00:23.156Z" agent="5.0 (Windows)" etag="asWRoJ2oi2pXOCptVbrQ" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="1296" dy="1631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-20" value="ข้อมูลการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="-256" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-21" value="D2 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มสินค้า" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-21" value="D2 &amp;nbsp;&amp;nbsp; Product" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="890" y="-313" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-24" value="&lt;div&gt;D1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Account&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
