@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T08:58:52.265Z" agent="5.0 (Windows)" etag="uF9f0A0wChupv1h9I1pH" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T08:59:21.011Z" agent="5.0 (Windows)" etag="VlrMDrAloy7iFm4NtbDY" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="760" dy="1411" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -479,8 +479,8 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-135" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="1157" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-136" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1920" width="130" height="20" as="geometry" />
+        <mxCell id="meepOP1iejbdZ-AN5ANC-136" value="รายละเอียดการรับประกันสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1920" width="151" height="20" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-137" value="ข้อมูลการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="745" y="1830" width="110" height="20" as="geometry" />
