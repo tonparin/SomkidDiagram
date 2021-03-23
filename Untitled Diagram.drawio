@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T08:50:36.976Z" agent="5.0 (Windows)" etag="BTJSX1hr3qQGTLvLpkRC" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:03:50.046Z" agent="5.0 (Windows)" etag="nKMPHAy3sE5ENSncy6u4" version="14.4.9" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="3673" dy="2703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3663" dy="2489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,6 +31,14 @@
         </mxCell>
         <mxCell id="K2hIcIQr3NRvpB6Ntuvf-15" value="Context Diagram&amp;nbsp; ระบบจัดการซื้อ ซ่อม จอง สินค้าออนไลน์ ร้าน JIB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-92" y="1495" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWm7bcT32vLPHMOBIbEn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-1" target="WleY1IvYI3spGeeIoT7s-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-8" y="1167" />
+              <mxPoint x="-487" y="1167" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-1" value="0" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="-127" y="-40" width="294" height="301" as="geometry" />
@@ -83,9 +91,14 @@
         <mxCell id="WleY1IvYI3spGeeIoT7s-27" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-398.5" y="68" width="233" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qWm7bcT32vLPHMOBIbEn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-29">
+        <mxCell id="qWm7bcT32vLPHMOBIbEn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-636.3529411764705" y="676.0588235294117" as="targetPoint" />
+            <mxPoint x="-584" y="727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWm7bcT32vLPHMOBIbEn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-713" y="791" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-29" value="พนักงาน" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
@@ -106,8 +119,8 @@
         <mxCell id="WleY1IvYI3spGeeIoT7s-42" value="รายละเอียดการซ่อม" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-393" y="95" width="206" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WleY1IvYI3spGeeIoT7s-47" value="รายละเอียดการรับประกัน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="-401" y="1064.5" width="204" height="20" as="geometry" />
+        <mxCell id="WleY1IvYI3spGeeIoT7s-47" value="รายละเอียดการรับประกันสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="-401" y="1064.5" width="244" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-48" value="ข้อมูลคำขอซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-399" y="1097" width="188" height="20" as="geometry" />
@@ -533,8 +546,14 @@
             <mxPoint x="-107.85999999999981" y="332.04399999999987" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qWm7bcT32vLPHMOBIbEn-1" value="ข้อมูลการรับประกันสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-721" y="820" width="131" height="20" as="geometry" />
+        <mxCell id="qWm7bcT32vLPHMOBIbEn-1" value="ข้อมูลการรับประกันสินค้า" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="738" width="131" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWm7bcT32vLPHMOBIbEn-3" value="ข้อมูลการขายสินค้า" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="868" width="131" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWm7bcT32vLPHMOBIbEn-5" value="รายละเอียดการขายสินค้า" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-377" y="1150" width="125.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
