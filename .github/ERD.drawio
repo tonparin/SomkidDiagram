@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:16:27.546Z" agent="5.0 (Windows)" etag="ki4mTjysb_-9J0oBAhua" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:16:40.615Z" agent="5.0 (Windows)" etag="2kWVgGOUkSGQqOic5U7S" version="14.4.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4163" dy="2486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3855" dy="2313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,7 +380,7 @@
         <mxCell id="M6LT8KvtsGDRZ_WIEE-e-73" value="Have" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1673" y="3975" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M6LT8KvtsGDRZ_WIEE-e-76" value="Order_Comp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M6LT8KvtsGDRZ_WIEE-e-76" value="Order_CompDetail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2093" y="3997" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6LT8KvtsGDRZ_WIEE-e-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="M6LT8KvtsGDRZ_WIEE-e-78" target="M6LT8KvtsGDRZ_WIEE-e-30">
