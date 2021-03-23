@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:00:48.795Z" agent="5.0 (Windows)" etag="nV42kslkNEILHYbYTA9N" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:03:56.407Z" agent="5.0 (Windows)" etag="RJRz7bYkfLFioHhjYEhR" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="1102" dy="1551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="1476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yEiUGvb2QqIc54wDbGAo-22" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6F0000;fontColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="507" y="1770" width="689" height="442" as="geometry" />
+        </mxCell>
         <mxCell id="LdF1uOxNHR_QqqjdQ8yZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LdF1uOxNHR_QqqjdQ8yZ-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1253,9 +1256,6 @@
         </mxCell>
         <mxCell id="yEiUGvb2QqIc54wDbGAo-20" value="รายละเอียดการขายสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="724" y="1882" width="125.75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="yEiUGvb2QqIc54wDbGAo-22" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6F0000;fontColor=#ffffff;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="507" y="1770" width="689" height="442" as="geometry" />
         </mxCell>
         <mxCell id="yEiUGvb2QqIc54wDbGAo-23" value="จัดเรียงเส้นใหม่(กูเติมไปแล้วมันดูรกๆ )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2124" width="233" height="20" as="geometry" />
