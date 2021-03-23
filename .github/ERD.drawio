@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T14:14:47.907Z" agent="5.0 (Windows)" etag="Sbjo0gaZmIYGl2sOKEzE" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T14:19:46.964Z" agent="5.0 (Windows)" etag="QZHRoj_xJORxfI90PWsB" version="14.5.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="10386" dy="5200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3987" dy="1852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,6 +588,9 @@
         </mxCell>
         <mxCell id="WizGwZLBX3iZ27yXYLyq-35" value="Have" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="2230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WizGwZLBX3iZ27yXYLyq-38" value="&lt;b&gt;คำแปล&lt;/b&gt;&lt;br&gt;Customer = ลูกค้า&lt;br&gt;Account = ผู้ใช้&lt;br&gt;Order = สั่งซื้อ&lt;br&gt;OrderDetail = รายละเอียดการสั่งซื้อ&lt;br&gt;Product = สินค้า&lt;br&gt;Repair = ซ่อม&lt;br&gt;Employee = พนักงาน&lt;br&gt;Manager = ผู้จัดการ&lt;br&gt;Company = บริษัท&lt;br&gt;Prod_Recieve = รับสินค้า&lt;br&gt;Order_Comp = สั่งซื้อ_บริษัท&lt;br&gt;Order_CompDetail = รายละเอียดสั่งซื้อ_บริษัท" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;fontColor=#FF99CC;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1501" y="968" width="302" height="246" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
