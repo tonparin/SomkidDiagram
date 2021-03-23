@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T08:58:44.242Z" agent="5.0 (Windows)" etag="6pMz9thlA_LfVLTMy-8C" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T08:58:52.265Z" agent="5.0 (Windows)" etag="uF9f0A0wChupv1h9I1pH" version="14.4.9" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="760" dy="1411" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1234,7 +1234,7 @@
           <mxGeometry x="776" y="2161" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yEiUGvb2QqIc54wDbGAo-4" value="ข้อมูลการรับประกันสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="745" y="1996" width="131" height="20" as="geometry" />
+          <mxGeometry x="745" y="1998" width="131" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yEiUGvb2QqIc54wDbGAo-7" value="ข้อมูลการขายสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="736" y="2026" width="131" height="20" as="geometry" />
