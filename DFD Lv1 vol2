@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T13:24:57.538Z" agent="5.0 (Windows)" etag="eR7op1HHARIxo3m-VhAv" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T13:34:45.217Z" agent="5.0 (Windows)" etag="FzF5kSyZBwXUHYFiFGXr" version="14.5.1" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="4750" dy="3355" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="1744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,7 +500,7 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-138" value="สถานะการซ่อมสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="1808" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-139" value="D6&amp;nbsp; &amp;nbsp;&amp;nbsp; Repair" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-139" value="D7&amp;nbsp; &amp;nbsp;&amp;nbsp; Repair" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="105" y="1818" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-141" value="สมาชิก" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -509,7 +509,7 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-142" value="D5 &amp;nbsp;&amp;nbsp;&amp;nbsp; แฟ้มซ่อมสินค้า" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="1000" y="1160" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-143" value="D6 &amp;nbsp;&amp;nbsp;&amp;nbsp; Repair" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-143" value="D7 &amp;nbsp;&amp;nbsp;&amp;nbsp; Repair" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="1000" y="1160" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-145" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" parent="1" vertex="1">
@@ -695,7 +695,7 @@
         <mxCell id="meepOP1iejbdZ-AN5ANC-178" value="D2 &amp;nbsp;&amp;nbsp;&amp;nbsp; Product" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="150" y="2830" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-179" value="D7 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_Comp" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="meepOP1iejbdZ-AN5ANC-179" value="D8 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_Comp" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="890" y="2851" width="132.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-180" value="7" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;" parent="1" vertex="1">
@@ -762,7 +762,7 @@
         <mxCell id="1syvJOiWCwgqeGG4t6_C-13" value="สินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="3640" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1syvJOiWCwgqeGG4t6_C-15" value="&lt;div&gt;D9 &amp;nbsp;&amp;nbsp;&amp;nbsp; Prod_Recieve&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="1syvJOiWCwgqeGG4t6_C-15" value="&lt;div&gt;D11&amp;nbsp;&amp;nbsp; Prod_Recieve&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="151" y="3772" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1syvJOiWCwgqeGG4t6_C-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.303;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="meepOP1iejbdZ-AN5ANC-181" target="1syvJOiWCwgqeGG4t6_C-1" edge="1">
@@ -1150,7 +1150,7 @@
         <mxCell id="1-YWINKqsPptyRSu3eB5-10" value="ข้อมูลการสั่งซื้อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="-140" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1-YWINKqsPptyRSu3eB5-12" value="D8 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_CompDetail" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="1-YWINKqsPptyRSu3eB5-12" value="D9 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_CompDetail" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="951" y="2733" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1-YWINKqsPptyRSu3eB5-13" value="ข้อมูลสั่งซื้อสินค้า_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1167,7 +1167,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-YWINKqsPptyRSu3eB5-16" value="D7 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_Comp" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="1-YWINKqsPptyRSu3eB5-16" value="D8 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_Comp" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="342.5" y="3835" width="132.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1-YWINKqsPptyRSu3eB5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.682;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1-YWINKqsPptyRSu3eB5-17" target="meepOP1iejbdZ-AN5ANC-181" edge="1">
@@ -1178,7 +1178,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-YWINKqsPptyRSu3eB5-17" value="D8 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_CompDetail" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="1-YWINKqsPptyRSu3eB5-17" value="D9 &amp;nbsp;&amp;nbsp;&amp;nbsp; Order_CompDetail" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="743" y="3869" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1-YWINKqsPptyRSu3eB5-21" value="สถานะการรับสินค้า" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1350,11 +1350,17 @@
         <mxCell id="a-W0QJmpl10IujsDlUi_-10" value="รายละเอียดการจ่ายเงิน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="784" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a-W0QJmpl10IujsDlUi_-12" value="D5 &amp;nbsp;&amp;nbsp;&amp;nbsp; Payment" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="285" y="2986" width="100" height="30" as="geometry" />
+        <mxCell id="a-W0QJmpl10IujsDlUi_-12" value="D10&amp;nbsp;&amp;nbsp;&amp;nbsp; PaymentComp" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="285" y="2986" width="128" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-W0QJmpl10IujsDlUi_-14" value="ข้อมูลการจ่ายเงิน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="a-W0QJmpl10IujsDlUi_-14" value="ข้อมูลการจ่ายเงิน" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="384" y="2861" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a-W0QJmpl10IujsDlUi_-17" value="D5 &amp;nbsp;&amp;nbsp;&amp;nbsp; Payment" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="488" y="4400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a-W0QJmpl10IujsDlUi_-18" value="D10&amp;nbsp;&amp;nbsp;&amp;nbsp; PaymentComp" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="866.5" y="4434" width="128" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
