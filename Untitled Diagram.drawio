@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T12:54:13.289Z" agent="5.0 (Windows)" etag="OcAJChDEWrArRUQNIymv" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T13:26:24.444Z" agent="5.0 (Windows)" etag="D3ikuy_skFIkCGWjHC00" version="14.5.1" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="2237" dy="1952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,15 @@
             <Array as="points">
               <mxPoint x="-8" y="1141" />
               <mxPoint x="-487" y="1141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="WleY1IvYI3spGeeIoT7s-1" target="WleY1IvYI3spGeeIoT7s-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-78" y="457" />
+              <mxPoint x="-307" y="457" />
+              <mxPoint x="-307" y="1029" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -566,6 +575,9 @@
         </mxCell>
         <mxCell id="qWm7bcT32vLPHMOBIbEn-5" value="รายละเอียดการขายสินค้า" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-401" y="1117" width="217" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-1" value="รายละเอียดการจ่ายเงิน" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-459" y="997" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
