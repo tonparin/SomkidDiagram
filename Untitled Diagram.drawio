@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T12:53:58.600Z" agent="5.0 (Windows)" etag="kKMsllhlJeea0brLi6Um" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T12:54:13.289Z" agent="5.0 (Windows)" etag="OcAJChDEWrArRUQNIymv" version="14.5.1" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
-    <mxGraphModel dx="1394" dy="1511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2237" dy="1952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,7 +564,7 @@
         <mxCell id="qWm7bcT32vLPHMOBIbEn-3" value="ข้อมูลการขายสินค้า" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-362.5" y="281" width="181" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qWm7bcT32vLPHMOBIbEn-5" value="รายละเอียดการขายสินค้า" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="qWm7bcT32vLPHMOBIbEn-5" value="รายละเอียดการขายสินค้า" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-401" y="1117" width="217" height="20" as="geometry" />
         </mxCell>
       </root>
