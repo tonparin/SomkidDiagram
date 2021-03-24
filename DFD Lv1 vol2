@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T13:02:44.767Z" agent="5.0 (Windows)" etag="jzLRCSP_IfPhrvi3Z5se" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T13:04:19.023Z" agent="5.0 (Windows)" etag="ftRkwxsQB1JHwC36E6QA" version="14.5.1" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="1118" dy="1631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3167" dy="2603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1312,9 +1312,6 @@
             </Array>
             <mxPoint x="507.75" y="3834" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h5qy3GVABIys5mwigo5o-9" value="ต้องใส่บ่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1196" y="4483" width="51" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
