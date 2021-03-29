@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T13:52:23.308Z" agent="5.0 (Windows)" etag="uU9r93y8Qcq053RezEV6" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T13:52:35.072Z" agent="5.0 (Windows)" etag="RrlZQ7yPlxWwKepuHl2x" version="14.5.1" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
     <mxGraphModel dx="2524" dy="2102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -560,7 +560,7 @@
         <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-1" value="รายละเอียดการจ่ายเงิน" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1003" width="203" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-6" value="รายงานค่าใช้จ่าย" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-6" value="รายงานค่าใช้จ่าย" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="262.94" y="-678" width="150.62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d80073;exitX=0.86;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.948;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WleY1IvYI3spGeeIoT7s-1" target="K2hIcIQr3NRvpB6Ntuvf-6" edge="1">
@@ -573,7 +573,7 @@
             <mxPoint x="460" y="-661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-10" value="ข้อมูลค่าใช้จ่าย" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="Gqo0Aq5WyDYDG5-ywuaz-10" value="ข้อมูลค่าใช้จ่าย" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="196.94" y="-89" width="168.12" height="20" as="geometry" />
         </mxCell>
       </root>
