@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T13:52:35.072Z" agent="5.0 (Windows)" etag="RrlZQ7yPlxWwKepuHl2x" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T15:07:28.825Z" agent="5.0 (Windows)" etag="N7eTlQxIKLBNrAV_Erk0" version="14.5.1" type="github">
   <diagram id="piSAjxvNjsATT06_tmGj" name="Page-1">
     <mxGraphModel dx="2524" dy="2102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
         <mxCell id="WleY1IvYI3spGeeIoT7s-79" value="ข้อมูลการรับสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-356" y="-838" width="191" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WleY1IvYI3spGeeIoT7s-82" value="ใบส่งสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="WleY1IvYI3spGeeIoT7s-82" value="ข้อมูลการส่งสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="206" y="1068" width="213.62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WleY1IvYI3spGeeIoT7s-83" value="สินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
