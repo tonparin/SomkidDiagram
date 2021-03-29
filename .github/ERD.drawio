@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T14:34:30.211Z" agent="5.0 (Windows)" etag="FaqN7t5LY-aQ_XwFRvEh" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T14:36:05.760Z" agent="5.0 (Windows)" etag="fbfae56kYBXIGF0HaiCJ" version="14.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2924" dy="-414" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -476,6 +476,11 @@
             <mxPoint x="-698" y="3192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4Pd80cKd1uN6Y8XhweKX-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#a20025;strokeColor=#6F0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sU6necC3p9qb4xVzF4nk-3" target="4Pd80cKd1uN6Y8XhweKX-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1242" y="2642" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sU6necC3p9qb4xVzF4nk-3" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1222" y="2463" width="120" height="60" as="geometry" />
         </mxCell>
@@ -616,6 +621,9 @@
               <mxPoint x="534" y="3066" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4Pd80cKd1uN6Y8XhweKX-13" value="Have" style="rhombus;whiteSpace=wrap;html=1;rotation=-50;fontSize=18;fontStyle=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="2607" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
