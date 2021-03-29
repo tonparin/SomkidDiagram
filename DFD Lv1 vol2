@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T15:08:13.436Z" agent="5.0 (Windows)" etag="plShPUSGCXkswAURg0ud" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T15:10:31.616Z" agent="5.0 (Windows)" etag="ZSd8sSt_H5eUm3qq8IYD" version="14.5.1" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
-    <mxGraphModel dx="345" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="1511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,7 +640,7 @@
           <mxGeometry x="697.5" y="2550" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-171" value="รายละเอียดการสั่งซื้อ_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="726.5" y="2888" width="140" height="20" as="geometry" />
+          <mxGeometry x="658" y="2890" width="169.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-172" value="ข้อมูลจัดส่ง_บริษัท" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="727.25" y="2585" width="100" height="20" as="geometry" />
