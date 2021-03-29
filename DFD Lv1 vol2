@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T14:16:29.863Z" agent="5.0 (Windows)" etag="9GlIWOVT3TDcPQo2VSgH" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T14:16:36.488Z" agent="5.0 (Windows)" etag="LpQfvN3PojKISTBMP4zv" version="14.5.1" type="github">
   <diagram id="fasEmFlREur0uLGH7B8P" name="Page-1">
     <mxGraphModel dx="1014" dy="1731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -41,16 +41,6 @@
             <mxPoint x="180" y="-125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.426;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="meepOP1iejbdZ-AN5ANC-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="-372.4999999999998" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="-372" />
-              <mxPoint x="561" y="-372" />
-            </Array>
-            <mxPoint x="560.72" y="-169.45000000000027" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.642;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="meepOP1iejbdZ-AN5ANC-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -75,9 +65,6 @@
             <mxPoint x="571.1700000000001" y="-167.14000000000033" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-18" value="ข้อมูลสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="-390" width="90" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-19" value="ข้อมูลสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="-314" width="110" height="20" as="geometry" />
         </mxCell>
@@ -86,9 +73,6 @@
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-21" value="D2 &amp;nbsp;&amp;nbsp; Product" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="890" y="-313" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="meepOP1iejbdZ-AN5ANC-24" value="&lt;div&gt;D1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Account&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="890" y="-390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meepOP1iejbdZ-AN5ANC-25" value="D3 &amp;nbsp;&amp;nbsp;&amp;nbsp; Orde" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="890" y="-250" width="100" height="30" as="geometry" />
